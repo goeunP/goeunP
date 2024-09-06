@@ -17,11 +17,11 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
 
 <br/>
-<hr>
-<h1>🍀CONTACT ME</h1><br>
+
+<h1>🍀MORE INFO</h1>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0young384@gmail.com)](mailto:pjk146195@gmail.com)
-
+[![Gmail Badge](https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/_kuyin)
 
   </div>
 
