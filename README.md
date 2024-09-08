@@ -3,15 +3,18 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=I'm%20Goeun&fontSize=90&animation=twinkling&desc=and%20I%20seek%20JOY&descAlign=50&descAlignY=73&descSize=35&fontAlignY=46" />
 
 <!-- education -->
-<img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=30&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=🍏 EDUCATION" alt="Typing SVG" />
-<br><hr>
+<img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=20&pause=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=🍏 ABOUT ME&repeat=false" alt="Typing SVG" />
+<br>
 
-<p>- B.S. in Library & Information</p>
-<p>- B.S. in Computer Science</p><hr>
-<br >
+`2020.03 ~ ` B.S. in Library & Information Science at SKKU
+
+`2021.08 ~ ` B.S. in Computer Science at SKKU
+
+MBTI : ENFJ -> ISTP
+
 <!-- stacks -->
-
-<img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=30&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=🍏 STACKS" alt="Typing SVG" />
+<hr>
+<img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=20&pause=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=🍏 STACKS&repeat=false" alt="Typing SVG" />
 <br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -27,11 +30,18 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
-<br/><hr><br/>
+<br/><hr>
+
+<hr>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=20&pause=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=🍏 CERTIFICATE&repeat=false" alt="Typing SVG" /></a>
+
+`2023.06 `ADSP
+
+`2023.10 ` SQLD
 
 <!-- more info -->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=30&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=🍏 MORE+INFO" alt="Typing SVG" /></a>
+<hr>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=20&pause=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=🍏 MORE+INFO&repeat=false" alt="Typing SVG" /></a>
 
 <div>
 
