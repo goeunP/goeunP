@@ -1,13 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=I'm%20Goeun&fontSize=90&animation=twinkling&desc=and%20I%20seek%20JOY&descAlign=50&descAlignY=73&descSize=35&fontAlignY=46)
-
 <div align=center>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=I'm%20Goeun&fontSize=90&animation=twinkling&desc=and%20I%20seek%20JOY&descAlign=50&descAlignY=73&descSize=35&fontAlignY=46" />
 
 <!-- education -->
 <img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=30&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=🍏 EDUCATION" alt="Typing SVG" />
-<br><br>
+<br><hr>
 
 <p>- B.S. in Library & Information</p>
-<p>- B.S. in Computer Science</p>
+<p>- B.S. in Computer Science</p><hr>
 <br >
 <!-- stacks -->
 
@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
-<br/><br/>
+<br/><hr><br/>
 
 <!-- more info -->
 
