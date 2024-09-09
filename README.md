@@ -14,15 +14,6 @@
 
 `2024` 🇩🇰
 
-📍 ISTP <br>
-<div>
-<img width="473" alt="스크린샷 2024-09-09 오전 10 18 55" src="https://github.com/user-attachments/assets/61a5d90d-2811-4b45-9e9a-3a4fc137295e">
-<img width="477" alt="스크린샷 2024-09-09 오전 10 19 09" src="https://github.com/user-attachments/assets/897d152c-add3-44b9-b047-922b28506ac2">
-</div>
-<br>
-
-📍 커피, 운동, 뜨개질, 야구, 자전거, 베이킹, 드럼 ・・・ 
-
 <!-- stacks -->
 <hr>
 <img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=20&pause=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=🍏 STACKS&repeat=false" alt="Typing SVG" />
