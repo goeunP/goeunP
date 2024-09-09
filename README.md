@@ -38,7 +38,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=20&pause=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=🍏 ACTIVITIES&repeat=false" alt="Typing SVG" /></a>
 
-`2022.01 ~ 2024.01 ` 연합동아리 멋쟁이 사자처럼 10-12기 운영진 | 프론트엔드 <br>
+`2022.01 ~ 2024.01 ` 성균관대 멋쟁이 사자처럼 10-11기 운영진 | 프론트엔드 <br>
 `2022.08 ~ 2024.01 ` 교내 동아리연합회 산하 기술팀 프론트엔드 개발 팀원
 <!-- more info -->
 <hr>
