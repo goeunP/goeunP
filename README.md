@@ -14,7 +14,7 @@
 
 `2024` 🇩🇰
 
-📍 ENFJ  ⇢  ISTP <br>
+📍 ISTP <br>
 <div>
 <img width="473" alt="스크린샷 2024-09-09 오전 10 18 55" src="https://github.com/user-attachments/assets/61a5d90d-2811-4b45-9e9a-3a4fc137295e">
 <img width="477" alt="스크린샷 2024-09-09 오전 10 19 09" src="https://github.com/user-attachments/assets/897d152c-add3-44b9-b047-922b28506ac2">
