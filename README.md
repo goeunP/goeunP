@@ -1,6 +1,6 @@
 <div align=center>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=I'm%20Goeun&fontSize=90&animation=twinkling&desc=and%20I%20seek%20JOY&descAlign=50&descAlignY=73&descSize=35&fontAlignY=46" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=cce3ac&height=200&section=header&text=I'm%20Goeun&fontSize=90&animation=twinkling&desc=and%20I%20seek%20JOY&descAlign=50&descAlignY=73&descSize=35&fontAlignY=46" />
 
 <!-- education -->
 <img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=20&pause=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=🍏 ABOUT ME&repeat=false" alt="Typing SVG" />
@@ -10,7 +10,11 @@
 
 `2021.08 ~ ` B.S. in Computer Science at SKKU
 
-MBTI : ENFJ -> ISTP
+`2023` ADSP, SQLD
+
+`2024` 🇩🇰
+
+📍 ENFJ  ▻  ISTP
 
 <!-- stacks -->
 <hr>
@@ -32,13 +36,10 @@ MBTI : ENFJ -> ISTP
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 <br/><hr>
 
-<hr>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=20&pause=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=🍏 CERTIFICATE&repeat=false" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=20&pause=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=🍏 ACTIVITIES&repeat=false" alt="Typing SVG" /></a>
 
-`2023.06 `ADSP
-
-`2023.10 ` SQLD
-
+`2022.01 ~ 2024.01 ` 연합동아리 멋쟁이 사자처럼 10-12기 운영진 | 프론트엔드 <br>
+`2022.08 ~ 2024.01 ` 교내 동아리연합회 산하 기술팀 프론트엔드 개발 팀원
 <!-- more info -->
 <hr>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=20&pause=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=🍏 MORE+INFO&repeat=false" alt="Typing SVG" /></a>
