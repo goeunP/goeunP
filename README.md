@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=cce3ac&height=200&section=header&text=I'm%20Goeun&fontSize=90&animation=twinkling&descAlign=50&descAlignY=60&descSize=35&fontAlignY=46" />
 
-<!-- education -->
+<!-- education
 <img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=20&pause=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=🍏 ABOUT ME&repeat=false" alt="Typing SVG" />
 <br>
 
@@ -12,9 +12,9 @@
 
 `2023` ADSP, SQLD
 
-`2024` 🇩🇰
+`2024` 🇩🇰 -->
 
-<!-- stacks -->
+<!-- stacks 
 <hr>
 <img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=20&pause=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=🍏 STACKS&repeat=false" alt="Typing SVG" />
 <br>
@@ -38,8 +38,8 @@
 
 `2022.01 ~ 2023.12 ` 성균관대 멋쟁이 사자처럼 10-11기 운영진 | 프론트엔드 <br>
 `2022.08 ~ 2024.01 ` 교내 동아리연합회 산하 기술팀 프론트엔드 개발 팀원 <br>
-`2022.09 ~ 2023.12 ` 교내 SW 필수 교양 학부생 TA 
-<!-- more info -->
+`2022.09 ~ 2023.12 ` 교내 SW 필수 교양 학부생 TA -->
+<!-- more info
 <hr>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=20&pause=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=🍏 MORE+INFO&repeat=false" alt="Typing SVG" /></a>
 
@@ -48,5 +48,5 @@
 <a href="mailto:0young384@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0young384@gmail.com"></a>
 <a href="https://instagram.com/_kuyin"><img alt="Insta Badge" src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
 
-</div>
+</div> -->
 </div>
